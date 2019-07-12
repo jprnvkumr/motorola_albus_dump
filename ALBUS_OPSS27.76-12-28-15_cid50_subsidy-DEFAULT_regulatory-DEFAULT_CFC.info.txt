@@ -1,0 +1,25 @@
+BUILD REQUEST INFO:
+SW Version: albus-user 8.0.0 OPSS27.76-12-28-15 13 release-keysM8953P_41.50.07.67.02R
+MBM Version: C0.CD
+Modem Version: M8953P_41.50.07.67.02R
+FSG Version: FSG-8953-08.123
+Build Fingerprint: motorola/albus/albus:8.0.0/OPSS27.76-12-28-15/13:user/release-keys
+CQATest App Version: 6.0.3
+
+VERSION INFO FOUND UNDER 'ABOUT PHONE' SCREEN:
+System Version: 27.351.13.albus.retail.en.US
+Model Number: Moto Z2 Play
+Android Version: 8.0.0
+Baseband Version: M8953P_41.50.07.67.02R
+Build Id: OPSS27.76-12-28-15
+SW Display Build ID: OPSS27.76-12-28-15
+Build Date: Thu Feb  7 05:17:23 CST 2019
+
+OTHER MISC VERSION INFO:
+Subsidy Lock Config: slcf_rev_d_default_v1.0.nvm
+Regulatory Info (eLabel): regulatory_info_default.png
+Blur Version: Blur_Version.27.351.13.albus.retail.en.US
+Version when read from CPV: albus-user 8.0.0 OPSS27.76-12-28-15 13 release-keys
+
+AB Update Enabled: False
+Full Treble Enabled: False

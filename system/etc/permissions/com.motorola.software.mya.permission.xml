@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <permission name= "com.motorola.maya.permission.MAYA_SERVICE" >
+        <group gid="log" />
+    </permission>
+    <privapp-permissions package="com.motorola.mya.fmwkwrapper">
+        <permission name="android.permission.INJECT_EVENTS"/>
+        <permission name="android.permission.DEVICE_POWER"/>
+        <permission name="android.permission.REMOVE_TASKS"/>
+    </privapp-permissions>
+</permissions>
