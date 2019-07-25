@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APP_BLACK_LIST">
+        <item>ca.bell.selfserve.mybellmobile</item>
+        <item>ca.bell.wt.android.tunesappswidget</item>
+        <item>ca.virginmobile.myaccount.virginmobile</item>
+        <item>ca.virginmobile.mybenefits</item>
+        <item>com.quickplay.android.bellmediaplayer</item>
+        <item>com.sasktel.mysasktel</item>
+    </string-array>
+</resources>

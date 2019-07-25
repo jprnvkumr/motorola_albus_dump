@@ -1,0 +1,8 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=22
+ro.mot.base_buildid=OPS27.76-12-25/26
+ro.product.name=albus
+ro.mot.build.oem.product=albus
+ro.mot.build.customerid=retail

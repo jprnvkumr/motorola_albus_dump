@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plmn simswap="false" >
+    <sim mccmnc="302490" spn="" >
+        <app
+            package="com.motorola.invisiblenet" >
+            <component
+                class="com.motorola.invisiblenet.Alias31"
+                enabled="true">
+                <shortcut
+                    x="0"
+                    y="0"
+                    screen="1" />
+            </component>
+        </app>
+    </sim>
+</plmn>
