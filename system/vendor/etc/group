@@ -1,0 +1,16 @@
+vendor_qti_diag::2901:
+vendor_qdss::2902:
+vendor_rfs::2903:
+vendor_rfs_shared::2904:
+vendor_adpl_odl::2905:
+vendor_qrtr::2906:
+vendor_bridge_rw::5001:
+vendor_pwric::9001:
+vendor_tcmd::9004:
+mot_tcmd::9004:
+vendor_dbvc::9014:
+vendor_fingerp::9015:
+fingerp::9015:
+vendor_dtv::9019:
+vendor_mod::9020:
+vendor_prod_persist::9021:

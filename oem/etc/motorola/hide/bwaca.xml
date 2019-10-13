@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plmn simswap="false" >
+    <sim mccmnc="302610" spn="" gid="3e">
+        <app package="ca.bell.wt.android.tunesappswidget">
+            <widget
+                class="ca.bell.wt.android.tunesappswidget.TunesAppsWidgetProvider"
+                x="0"
+                y="0"
+                screen="1"
+                spanX="5"
+                spanY="2" />
+        </app>
+        <app package="ca.virginmobile.myaccount.virginmobile">
+            <shortcut
+                x="0"
+                y="4"
+                screen="1" />
+        </app>
+        <app package="ca.virginmobile.mybenefits">
+            <shortcut
+                x="1"
+                y="4"
+                screen="1" />
+        </app>
+        <app package="com.quickplay.android.bellmediaplayer">
+            <shortcut
+                x="2"
+                y="4"
+                screen="1" />
+        </app>
+        <app package="com.android.contacts">
+            <component
+                class="com.android.contacts.activities.PeopleActivity"
+                enabled="true">
+                <shortcut
+                    x="4"
+                    y="4"
+                    screen="1"
+                    enabled="false" />
+            </component>
+        </app>
+    </sim>
+    <sim mccmnc="302610" spn="" gid="3d">
+        <app package="ca.bell.wt.android.tunesappswidget">
+            <widget
+                class="ca.bell.wt.android.tunesappswidget.TunesAppsWidgetProvider"
+                x="0"
+                y="0"
+                screen="1"
+                spanX="5"
+                spanY="2" />
+        </app>
+        <app package="ca.bell.selfserve.mybellmobile">
+            <shortcut
+                x="0"
+                y="4"
+                screen="1" />
+        </app>
+        <app package="com.quickplay.android.bellmediaplayer">
+            <shortcut
+                x="1"
+                y="4"
+                screen="1" />
+        </app>
+        <app package="com.android.contacts">
+            <component
+                class="com.android.contacts.activities.PeopleActivity"
+                enabled="true">
+                <shortcut
+                    x="4"
+                    y="4"
+                    screen="1"
+                    enabled="false" />
+            </component>
+        </app>
+    </sim>
+    <sim mccmnc="302780" spn="" gid="">
+        <app
+            package="com.sasktel.mysasktel">
+        </app>
+    </sim>
+</plmn>

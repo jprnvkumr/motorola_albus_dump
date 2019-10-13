@@ -1,0 +1,10 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=ab8b4
+ro.build.version.ci=30
+ro.mot.build.guid=0a2a59f743e352f
+ro.product.name=albus
+ro.mot.build.oem.product=albus
+ro.mot.build.customerid=retail
+ro.product.device=albus
